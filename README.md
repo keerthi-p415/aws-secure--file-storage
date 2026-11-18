@@ -6,12 +6,23 @@ A web application where only email-verified, admin-approved users can upload, pr
 Built with PHP, MySQL and Nginx on Ubuntu Linux, and deployed on AWS EC2.
 
 ## Screenshots
+<img width="1920" height="1020" alt="login user" src="https://github.com/user-attachments/assets/a9a42083-977a-48b0-95b2-d5a83c15db94" />
+LOGIN PAGE
+<img width="1920" height="1020" alt="reg user" src="https://github.com/user-attachments/assets/59352cc8-eacc-4621-8b4c-b9c96221099c" />
+REGISTRATION PAGE
+<img width="1920" height="1080" alt="dashboard ad" src="https://github.com/user-attachments/assets/8ae88c5d-1ce9-47dc-a6dc-7f9ff4c4f4f4" />
+ADMIN DASHBOARD
+<img width="1920" height="1020" alt="dashboard user" src="https://github.com/user-attachments/assets/b444d456-6a65-4779-b509-b7b0c9913fb0" />
+USER DASHBOARD
+<img width="1920" height="1020" alt="profile user" src="https://github.com/user-attachments/assets/4ef91899-07b6-4e8c-ba99-558087f3d8f4" />
+PROFILE PAGE
 <img width="1920" height="1020" alt="admin records" src="https://github.com/user-attachments/assets/6ff70a68-6527-4d48-ac47-7a75b75ebeca" />
+ADMIN RECORDS
 <img width="1920" height="1020" alt="all files ad" src="https://github.com/user-attachments/assets/6ec9cb70-dc14-4215-b914-ea1f5ef4da46" />
+ALL FILES IN ADMIN
+<img width="1920" height="1020" alt="allfiles user" src="https://github.com/user-attachments/assets/6b6a248a-436b-45d6-9c0e-f8f64bd79215" />
+ALL FILES IN USER
 
-
-
-(Add screenshots here: login, registration with OTP, user dashboard, admin dashboard, records page.)
 
 ## Features
 

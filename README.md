@@ -6,6 +6,10 @@ A web application where only email-verified, admin-approved users can upload, pr
 Built with PHP, MySQL and Nginx on Ubuntu Linux, and deployed on AWS EC2.
 
 ## Screenshots
+<img width="1920" height="1020" alt="admin records" src="https://github.com/user-attachments/assets/6ff70a68-6527-4d48-ac47-7a75b75ebeca" />
+<img width="1920" height="1020" alt="all files ad" src="https://github.com/user-attachments/assets/6ec9cb70-dc14-4215-b914-ea1f5ef4da46" />
+
+
 
 (Add screenshots here: login, registration with OTP, user dashboard, admin dashboard, records page.)
 
